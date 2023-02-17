@@ -1,1 +1,0 @@
-PYTHONPATH=$PYTHONPATH:/Users/liaombro/Desktop/qa/stepik/
